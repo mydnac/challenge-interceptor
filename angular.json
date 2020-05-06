@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "challenge-interceptor"
+    }
+  },
+  "defaultProject": "challenge-interceptor",
+  "cli": {
+    "analytics": "fbd9deb6-d60d-48a3-8ea1-4fc0cab6df16"
+  }
 }
